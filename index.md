@@ -1,8 +1,9 @@
 ---
 layout: default
-title: "calypsonet-terminal-genericcard-uml-api"
-repository: "calypsonet-terminal-genericcard-uml-api"
+title: "calypsonet-terminal-genericcard-api-spec"
+repository: "calypsonet-terminal-genericcard-api-spec"
 latest_stable: "1.0.0"
+latest_stable_path: ""
 versions:
   - version: "2.0.0-SNAPSHOT"
     status: snapshot
