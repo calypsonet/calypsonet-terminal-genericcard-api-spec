@@ -107,7 +107,7 @@ GenericCardApiFactory ..> GenericCardTransactionManager #C_LINK : create >
 ' == STYLE ==
 
 center footer
-<size:10><color:#566573>Terminal Generic Card API 2.0 (2026-07-20) — CNA-TGC-API — Copyright © Calypso Networks Association — CC BY-ND 4.0 (https://creativecommons.org/licenses/by-nd/4.0/) — https://docs.terminal-api.calypsonet.org</color></size>
+<size:10><color:#566573>Terminal Generic Card API 2.0 (2026-10-28) — CNA-TGC-API — Copyright © Calypso Networks Association — CC BY-ND 4.0 (https://creativecommons.org/licenses/by-nd/4.0/) — https://docs.terminal-api.calypsonet.org</color></size>
 end footer
 
 @enduml
