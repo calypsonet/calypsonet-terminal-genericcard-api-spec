@@ -13,10 +13,10 @@ versions:
         name: "class-diagram.svg"
         size: "34 kB"
       html:
-        name: "YYMMDD-SP-CNATerminalAPI-GenericCard_v2.0.0-SNAPSHOT.html"
+        name: "261028-SP-CNATerminalAPI-GenericCard_v2.0.0-SNAPSHOT.html"
         size: "1.3 MB"
       pdf:
-        name: "YYMMDD-SP-CNATerminalAPI-GenericCard_v2.0.0-SNAPSHOT.pdf"
+        name: "261028-SP-CNATerminalAPI-GenericCard_v2.0.0-SNAPSHOT.pdf"
         size: "732 kB"
   - version: "1.0.0"
     status: stable
